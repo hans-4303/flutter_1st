@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// 테스트
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
   runApp(const MyApp());
